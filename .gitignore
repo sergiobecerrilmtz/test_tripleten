@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+datos_sensibles.csv
 
 # Distribution / packaging
 .Python
